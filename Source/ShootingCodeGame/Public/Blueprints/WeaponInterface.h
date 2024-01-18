@@ -7,7 +7,7 @@
 #include "WeaponInterface.generated.h"
 
 UINTERFACE(Blueprintable)
-class UWeaponInterface : public UInterface
+class SHOOTINGCODEGAME_API UWeaponInterface : public UInterface
 {
 	GENERATED_BODY()
 };

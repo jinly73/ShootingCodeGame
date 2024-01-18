@@ -14,7 +14,7 @@ enum class EItemType : uint8
 };
 
 UINTERFACE(Blueprintable)
-class UItemInterface : public UInterface
+class ITEMPLUGIN_API UItemInterface : public UInterface
 {
 	GENERATED_BODY()
 };
